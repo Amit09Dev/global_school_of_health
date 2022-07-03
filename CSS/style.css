@@ -613,6 +613,10 @@ footer img {
     padding: 1em;
 }
 
+.f-nav-menu{
+    padding-left: 0;
+}
+
 .f-nav-lists {
     text-align: center;
     padding: 0.5em 0;
