@@ -428,6 +428,10 @@ ul.program-lists li::after {
     display: block;
 }
 
+ .history-list li:nth-child(2)::before {
+        display: none;
+    }
+
 
 /* -----------------------------------------------------   MAIN-CTA SECTION  ---------------------------------------------- */
 
@@ -957,12 +961,7 @@ footer img {
     .history-list {
         padding: 0;
     }
-
-    .history-list li:nth-child(2)::before {
-        display: none;
-    }
-
-
+    
     /* --------------------------------------------   MAIN-CTA SECTION  -------------------------------------- */
 
 
