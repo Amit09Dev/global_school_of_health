@@ -428,10 +428,9 @@ ul.program-lists li::after {
     display: block;
 }
 
- .history-list li:nth-child(2)::before {
-        display: none;
-    }
-
+.history-list li:nth-child(2)::before {
+    display: none;
+}
 
 /* -----------------------------------------------------   MAIN-CTA SECTION  ---------------------------------------------- */
 
@@ -617,6 +616,7 @@ footer img {
     padding-left: 0;
 }
 
+
 .f-nav-lists {
     text-align: center;
     padding: 0.5em 0;
@@ -685,7 +685,7 @@ footer img {
     /* --------------------------------------------   HEADER SECTION  -------------------------------------- */
 
     .logo {
-        max-width: 20%;
+        max-width: 2%;
     }
 
     .logo-container {
@@ -721,7 +721,7 @@ footer img {
 
     .head-flex {
         display: flex;
-        height: 10vh;
+        height: 5.187rem;
         align-items: center;
         font-size: var(--head-fs);
     }
@@ -752,7 +752,7 @@ footer img {
     .nav-menu {
         position: relative;
         display: flex;
-        height: 6vh;
+        height: 2rem;
         align-items: center;
         justify-content: center;
         left: 0;
@@ -965,7 +965,7 @@ footer img {
     .history-list {
         padding: 0;
     }
-    
+
     /* --------------------------------------------   MAIN-CTA SECTION  -------------------------------------- */
 
 
